@@ -7,11 +7,11 @@ HTML,CSS and JavaScript(React.js)
 - About Application
 - Todo Application created using "React + Vite"
 - App.jsx File contains
- - It's a React app handling a Todo list.
- - Initializes various states for name, description, todos, filter, and editing.
- - Allows adding, filtering, editing, and deleting todos.
- - Renders a user interface to input new todos, filter them, display, edit, and delete existing todos.
- - Provides functionalities to modify todo status (completed or not) and save edited todo details.
+   - It's a React app handling a Todo list.
+   - Initializes various states for name, description, todos, filter, and editing.
+   - Allows adding, filtering, editing, and deleting todos.
+   - Renders a user interface to input new todos, filter them, display, edit, and delete existing todos.
+   - Provides functionalities to modify todo status (completed or not) and save edited todo details.
 
 - To Run Application
 - npm run dev
